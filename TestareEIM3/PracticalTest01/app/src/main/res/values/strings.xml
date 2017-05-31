@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticalTest01</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigate_string">Navigate to secondary activity</string>
+    <string name="add_string">Add string</string>
+    <string name="result_string">All added strings</string>
+    <string name="title_activity_practical_tes01_secondary">PracticalTes01SecondaryActivity</string>
+    <string name="concat_string">Concatenate strings</string>
+    <string name="capital_string">Capitalize first letters</string>
+    <string name="modified">Modified strings will appear here</string>
+    <string name="ok_string">OK</string>
+    <string name="cancel_string">CANCEL</string>
+</resources>

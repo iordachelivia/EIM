@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalTest021</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_number">Add number</string>
+    <string name="multiply">Multiply numbers</string>
+    <string name="result_string"> Result will appear here</string>
+</resources>

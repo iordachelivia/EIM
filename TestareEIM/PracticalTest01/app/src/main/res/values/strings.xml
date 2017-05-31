@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalTest01</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_term">Next term</string>
+    <string name="all_terms">All terms</string>
+    <string name="add_string">ADD</string>
+    <string name="compute_string">COMPUTE</string>
+</resources>
